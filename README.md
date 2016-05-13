@@ -1,6 +1,8 @@
 # WPAFB-Competition
 WPAFB Competition Jena Flora, Amethyst Smith, Payton Harner, Matthew Hasman
 
+Distance-to-Camera Python script credit goes to Adrian Rosenbrock | adrian@pyimagesearch.com 
+
 Documentation
 https://docs.google.com/document/d/1FyNJ3s1h-3xahU_aX7t8SZXzxQFz2roE2eUaN8wPglE/edit?usp=sharing
 
